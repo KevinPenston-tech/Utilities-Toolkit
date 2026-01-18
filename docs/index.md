@@ -1,5 +1,30 @@
 Utilities Toolkit — Technician Portal
-Assets:
-Phase 1 CUB
-pHASE 2 CUB
+Site Overview
+Phase 1 / CUB
 
+Chilled Water (CHW)
+CH_03300
+CH_03320
+CH_03340
+Phase 2 / CUB
+
+Main boiler files
+BO_114101
+BO_114102
+BO_114103
+
+Chilled Water
+
+Cooling Tower
+
+Wfo
+
+Compressed Air
+
+WFO
+
+hEATING hOT wATER
+
+Tempered Glycol
+
+Chilled Glycol
